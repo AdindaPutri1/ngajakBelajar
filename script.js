@@ -51,7 +51,7 @@ var confetti = new ConfettiGenerator(confettiSettings);
 confetti.render();
 
  let p = document.createElement("p");
- p.innerText = "Congrats 🎉\n you made the right choice!! \ngas bikin link gmeet 😉";
+ p.innerText = "Congrats 🎉\n you made the right choice 😉";
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
