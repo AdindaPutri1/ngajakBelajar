@@ -1,5 +1,5 @@
 // Get the "No" button element
-const noButton = document.getElementById("Haechan-button");
+const noButton = document.getElementById("Engga Mau-button");
 
 // Add a mouseover event listener to move the "No" button randomly
 noButton.addEventListener("mouseover", () => {
@@ -21,7 +21,7 @@ noButton.addEventListener("mouseover", () => {
 });
 
 // Get the "Yes" button element
-const yesButton = document.getElementById("Dinda-button");
+const yesButton = document.getElementById("Mau Bwanget-button");
 
 // Add a click event listener to create confetti
 yesButton.addEventListener("click", () => {
